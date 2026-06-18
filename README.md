@@ -5,6 +5,7 @@ A structured repository documenting my daily Data Structures and Algorithms prep
 |-------|--------|
 | Arrays | ✅ Done |
 | Two Pointer Technique | ✅ Done |
+| Sliding Window Technique | ✅ Done |
 | Strings | ⬜ Upcoming |
 | Linked Lists | ⬜ Upcoming |
 | Stacks & Queues | ⬜ Upcoming |
