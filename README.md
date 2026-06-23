@@ -141,3 +141,19 @@ Every topic file includes:
   <i>"An investment in knowledge pays the best interest." — Benjamin Franklin</i><br/><br/>
   <b>Started daily DSA commits — June 16, 2026 🚀</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
+<!---LeetCode Topics End-->
