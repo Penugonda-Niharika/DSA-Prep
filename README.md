@@ -154,6 +154,7 @@ Every topic file includes:
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
@@ -161,6 +162,7 @@ Every topic file includes:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2104-sum-of-subarray-ranges) |
@@ -172,4 +174,12 @@ Every topic file includes:
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0735-asteroid-collision) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
