@@ -147,6 +147,7 @@ Every topic file includes:
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
@@ -154,6 +155,7 @@ Every topic file includes:
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
@@ -162,6 +164,7 @@ Every topic file includes:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
@@ -169,6 +172,7 @@ Every topic file includes:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -182,4 +186,8 @@ Every topic file includes:
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
