@@ -1,23 +1,22 @@
 class StockSpanner {
 public:
-    vector<int> arr;
+    stack<pair<int, int>> st;
+    int idx = -1;
     StockSpanner() {
-        arr = {};
+        idx = -1;
     }
     
-    int next(int price) {
-        arr.push_back(price);
-        int cnt = 1;
-        for(int i=arr.size()-2; i>=0; i--) {
-            if(arr[i] <= price) cnt++;
-            else break;
-        }
-        return cnt;
+    int next(int val) {
+        idx += 1; 
+        while(!st.empty() && st.top().first <= val) st.pop();
+        int ans = idx - (st.empty() ? -1 : st.top().second);
+        st.push({val, idx});
+        return ans;
     }
-};
+ };
 
-/**
- * Your StockSpanner object will be instantiated and called as such:
- * StockSpanner* obj = new StockSpanner();
- * int param_1 = obj->next(price);
- */
+// // // // // // /**
+// // // // //  * Your StockSpanner object will be instantiated and called as such:
+// // //  * StockSpanner* obj = new StockSpanner();
+// // // // //  * int param_1 = obj->next(price);
+// // //  */
