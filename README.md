@@ -402,4 +402,12 @@ Every topic file includes:
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0173-binary-search-tree-iterator) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
