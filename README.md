@@ -201,6 +201,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0008-string-to-integer-atoi) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 ## Greedy
