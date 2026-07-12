@@ -189,6 +189,7 @@ Every topic file includes:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
@@ -202,6 +203,7 @@ Every topic file includes:
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 ## Greedy
@@ -412,4 +414,8 @@ Every topic file includes:
 | ------- |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
