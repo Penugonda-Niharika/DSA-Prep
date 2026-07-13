@@ -148,6 +148,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -420,4 +421,5 @@ Every topic file includes:
 | ------- |
 | [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
