@@ -196,6 +196,7 @@ Every topic file includes:
 | [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Simulation
@@ -418,12 +419,14 @@ Every topic file includes:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -434,4 +437,8 @@ Every topic file includes:
 | [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
