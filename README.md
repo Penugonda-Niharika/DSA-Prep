@@ -389,6 +389,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -422,6 +423,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
