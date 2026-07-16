@@ -5,15 +5,15 @@ public:
             ans.push_back(arr);
             return;
         }
-        for(int id=i; id<cand.size(); id++) {
-            if(id>i  && cand[id] == cand[id-1]) {
-                continue;
-            }
-            if(cand[id]>tar) break;
-            arr.push_back(cand[id]);
-            generate(cand, tar-cand[id], id+1, ans, arr);
-            arr.pop_back();
+        if (i == cand.size() || tar < 0) {
+            return;
         }
+        arr.push_back(cand[i]);
+        generate(cand, tar-cand[i], i+1, ans, arr);
+        arr.pop_back();
+        int n = i+1;
+        while(n < cand.size() && cand[n] == cand[i]) n++;
+        generate(cand, tar, n, ans, arr);
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
