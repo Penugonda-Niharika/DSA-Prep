@@ -1,17 +1,35 @@
 class Solution {
 public:
-    void generate(int n, int o, int c, string curr, vector<string>& res) {
-        if(curr.size() == 2*n) {
-            res.push_back(curr);
-            return;
+    // bool isValid(string c) {
+    //     int b = 0;
+    //     for(auto s : c) {
+    //         if(s == '(') b++;
+    //         else b--;
+    //         if(b<0) return false;
+    //     }
+    //     return b == 0;
+    // }
+    void generate(int n, string& curr, int open, int close, vector<string>& res) {
+        if(open == n && close == n) {
+                res.push_back(curr);
+                return;
         }
-        if(o < n) generate(n, o+1, c, curr+'(', res);
-        if(c < o) generate(n, o, c+1, curr+')', res);
+        if(open < n) {
+            curr.push_back('(');
+            generate(n, curr, open+1, close, res);
+            curr.pop_back();
+        }
+        if(close<open) {
+            curr.push_back(')');
+            generate(n, curr, open, close+1, res);
+            curr.pop_back();
+        }
     }
 
     vector<string> generateParenthesis(int n) {
         vector<string> res;
-        generate(n, 0, 0, "", res);
+        string curr;
+        generate(n, curr,0,0, res);
         return res;
     }
 };
