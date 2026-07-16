@@ -4,16 +4,16 @@ public:
                          vector<int>& curr,
                          vector<vector<int>>& ans) {
         // Write your recursive/backtracking code here
-
+        if(idx == nums.size()) {
             ans.push_back(curr);
-
-        
-        for(int i=idx; i<nums.size(); i++) {
-            if(i>idx && nums[i] == nums[i-1]) continue;
-        curr.push_back(nums[i]);
-        generateSubsets(i+1, nums, curr, ans);
-        curr.pop_back();
+            return;
         }
+        curr.push_back(nums[idx]);
+        generateSubsets(idx+1, nums, curr, ans);
+        curr.pop_back();
+        int next = idx+1;
+        while(next < nums.size() && nums[next] == nums[idx]) next++;
+        generateSubsets(next, nums, curr, ans);
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(), nums.end());
