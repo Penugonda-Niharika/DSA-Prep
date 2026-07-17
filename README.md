@@ -385,6 +385,7 @@ Every topic file includes:
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
 | [0784-letter-case-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0784-letter-case-permutation) |
 ## Divide and Conquer
 |  |
@@ -425,6 +426,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -432,6 +434,7 @@ Every topic file includes:
 | ------- |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1922-count-good-numbers) |
 ## Backtracking
