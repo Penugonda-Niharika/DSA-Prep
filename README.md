@@ -400,6 +400,7 @@ Every topic file includes:
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0237-delete-node-in-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
