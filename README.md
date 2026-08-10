@@ -401,6 +401,7 @@ Every topic file includes:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -421,6 +422,7 @@ Every topic file includes:
 | ------- |
 | [0344-reverse-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0876-middle-of-the-linked-list) |
 ## Iterator
 |  |
 | ------- |
