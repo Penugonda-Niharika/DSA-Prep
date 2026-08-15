@@ -9,19 +9,58 @@
  * }
  */
 class Solution {
+    public ListNode merge(ListNode l1, ListNode l2) {
+        ListNode dn = new ListNode(-1, null);
+        ListNode temp = dn;
+        while(l1 != null && l2 != null) {
+            if(l1.val <= l2.val) {
+                temp.next = l1;
+                l1 = l1.next;
+            } else {
+                temp.next = l2;
+                l2 = l2.next;
+            }
+            temp = temp.next;
+        }
+
+        if (l1 != null) {
+            temp.next = l1;
+        } else {
+            temp.next = l2;
+        }
+        return dn.next;
+    }
+
+    public ListNode findMiddle(ListNode head) {
+        // If list empty or single ListNode
+        if (head == null || head.next == null) {
+            return head;
+        }
+
+        // Slow and fast pointers
+        ListNode slow = head;
+        ListNode fast = head.next;
+
+        // Move fast twice as fast as slow
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        // Return middle ListNode
+        return slow;
+    }
+
     public ListNode sortList(ListNode head) {
-        ArrayList<Integer> arr = new ArrayList<Integer>();
-        ListNode temp = head;
-        while(temp != null) {
-            arr.add(temp.val);
-            temp = temp.next;
-        }
-        Collections.sort(arr);
-        temp = head;
-        for(int i=0; i<arr.size(); i++) {
-            temp.val = arr.get(i);
-            temp = temp.next;
-        }
-        return head;
+        if(head == null || head.next == null) {
+    return head;
+}
+        ListNode mid = findMiddle(head);
+        ListNode right = mid.next;
+        mid.next = null;
+        ListNode left = head;
+        left = sortList(left);
+        right = sortList(right);
+        return merge(left, right);
     }
 }
