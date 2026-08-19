@@ -214,6 +214,7 @@ Every topic file includes:
 | [0008-string-to-integer-atoi](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
@@ -372,6 +373,7 @@ Every topic file includes:
 | [0141-linked-list-cycle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -381,6 +383,7 @@ Every topic file includes:
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
