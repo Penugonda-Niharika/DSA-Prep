@@ -147,6 +147,7 @@ Every topic file includes:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
@@ -367,6 +368,7 @@ Every topic file includes:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
