@@ -176,6 +176,7 @@ Every topic file includes:
 | [0144-binary-tree-preorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0735-asteroid-collision) |
@@ -232,6 +233,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -241,6 +243,7 @@ Every topic file includes:
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
