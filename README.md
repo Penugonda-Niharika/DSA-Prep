@@ -169,6 +169,7 @@ Every topic file includes:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
@@ -216,6 +217,7 @@ Every topic file includes:
 | [0006-zigzag-conversion](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -496,4 +498,8 @@ Every topic file includes:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
