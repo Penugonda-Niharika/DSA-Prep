@@ -150,6 +150,7 @@ Every topic file includes:
 | [0001-two-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
@@ -172,6 +173,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
@@ -195,6 +197,7 @@ Every topic file includes:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
@@ -209,6 +212,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
@@ -454,6 +458,7 @@ Every topic file includes:
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
