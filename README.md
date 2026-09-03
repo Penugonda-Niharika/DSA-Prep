@@ -159,6 +159,7 @@ Every topic file includes:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
@@ -394,6 +395,7 @@ Every topic file includes:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0496-next-greater-element-i) |
@@ -405,6 +407,7 @@ Every topic file includes:
 | ------- |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -429,6 +432,7 @@ Every topic file includes:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -520,4 +524,12 @@ Every topic file includes:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
