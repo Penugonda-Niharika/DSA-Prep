@@ -160,6 +160,7 @@ Every topic file includes:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
@@ -426,6 +427,7 @@ Every topic file includes:
 | [0029-divide-two-integers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
 | [0784-letter-case-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0784-letter-case-permutation) |
