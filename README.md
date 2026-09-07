@@ -153,6 +153,7 @@ Every topic file includes:
 | [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
@@ -414,6 +415,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
@@ -545,4 +547,8 @@ Every topic file includes:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
