@@ -154,6 +154,7 @@ Every topic file includes:
 | [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
@@ -251,6 +252,7 @@ Every topic file includes:
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
@@ -402,6 +404,7 @@ Every topic file includes:
 | [0001-two-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0141-linked-list-cycle) |
