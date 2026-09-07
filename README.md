@@ -168,6 +168,7 @@ Every topic file includes:
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0503-next-greater-element-ii) |
@@ -557,4 +558,8 @@ Every topic file includes:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
