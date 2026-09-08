@@ -1,26 +1,27 @@
-class Solution {
-    public int trap(int[] ht) {
-        int n=ht.length;
-        int cnt = 0;
-        int[] lm = new int[n];
-        int[] rm = new int[n];
+// Source - https://stackoverflow.com/q/30940246
+// Posted by anonymous, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-09-09, License - CC BY-SA 3.0
 
-        lm[0] = ht[0];
-        for(int i=1; i<n; i++) {
-            lm[i] = Math.max(ht[i], lm[i-1]);
-        }
-
-        rm[n-1] = ht[n-1];
-        for(int i=n-2; i>=0; i--) {
-            rm[i] = Math.max(ht[i], rm[i+1]);
-        }
-        for(int i=0; i<n; i++) {
-            
-            int w = Math.min(lm[i], rm[i])-ht[i];
-            if(w>0) {
-                cnt += w;
+public class Solution {
+    public int trap(int[] height) {
+        if (height.length <=2 )
+            return 0;
+        int h = 0, sum = 0, i = 0, j = height.length - 1;
+        while(i < j)
+        {
+            if ( height[i] < height[j] )
+            {
+                h = Math.max(h,height[i]);
+                sum += h - height[i];
+                i++;
+            }
+            else
+            {   
+                h = Math.max(h,height[j]);
+                sum += h - height[j];
+                j--;
             }
         }
-        return cnt;
+        return sum;
     }
 }
