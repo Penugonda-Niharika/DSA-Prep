@@ -1,22 +1,20 @@
 class Solution {
-
-    public int trap(int[] h) {
-        int n = h.length;
-        int l = 0, r = n-1;
-        int lmax = 0, rmax = 0;
-        int ans = 0;
-        while(l<r) {
-            lmax = Math.max(lmax, h[l]);
-            rmax = Math.max(rmax, h[r]);
-            if(lmax < rmax) {
-                ans += lmax - h[l];
-                l++;
-            } else {
-                ans += rmax - h[r];
-                r--;
-
+    public int trap(int[] ht) {
+        int n=ht.length;
+        int cnt = 0;
+        int lmax = 0, rmax=0;
+        int area = 0;
+        for(int i=0; i<n; i++) {
+            lmax = Math.max(lmax, ht[i]);
+            rmax = 0;
+            for(int j=i+1; j<n; j++) {
+                rmax = Math.max(rmax, ht[j]);
+            }
+            int w = Math.min(lmax, rmax)-ht[i];
+            if(w>0) {
+                cnt += w;
             }
         }
-        return ans;
+        return cnt;
     }
 }
