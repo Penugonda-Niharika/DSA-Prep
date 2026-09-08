@@ -153,6 +153,7 @@ Every topic file includes:
 | [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
@@ -233,6 +234,7 @@ Every topic file includes:
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0735-asteroid-collision) |
 ## String
 |  |
@@ -255,6 +257,7 @@ Every topic file includes:
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2965-find-missing-and-repeated-values) |
