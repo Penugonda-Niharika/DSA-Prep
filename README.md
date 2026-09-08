@@ -171,6 +171,7 @@ Every topic file includes:
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0503-next-greater-element-ii) |
@@ -260,6 +261,7 @@ Every topic file includes:
 | [0054-spiral-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -439,6 +441,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -460,6 +463,7 @@ Every topic file includes:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
 | ------- |
