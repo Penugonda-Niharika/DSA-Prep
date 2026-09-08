@@ -170,6 +170,7 @@ Every topic file includes:
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
@@ -435,6 +436,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Every topic file includes:
 | [0136-single-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0784-letter-case-permutation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
@@ -490,6 +493,7 @@ Every topic file includes:
 | [0142-linked-list-cycle-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0876-middle-of-the-linked-list) |
@@ -536,6 +540,7 @@ Every topic file includes:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -565,4 +570,8 @@ Every topic file includes:
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
