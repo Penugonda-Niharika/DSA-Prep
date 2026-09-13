@@ -254,6 +254,7 @@ Every topic file includes:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0784-letter-case-permutation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
@@ -509,6 +510,7 @@ Every topic file includes:
 | [0234-palindrome-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0876-middle-of-the-linked-list) |
 ## Iterator
