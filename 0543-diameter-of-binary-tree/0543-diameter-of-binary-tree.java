@@ -16,11 +16,11 @@
 class Solution {
     int ans = -1;
     int mc = -1;
-    int ht(TreeNode root, int cnt) {
+    int ht(TreeNode root) {
         if(root == null) return 0;
-        int lh = ht(root.left, cnt+1);
-        int rh = ht(root.right, cnt+1);
-        cnt = lh+rh;
+        int lh = ht(root.left);
+        int rh = ht(root.right);
+        int cnt = lh+rh;
         if(mc<cnt) {
             mc = cnt;
             ans = cnt;
@@ -29,7 +29,7 @@ class Solution {
     }
     public int diameterOfBinaryTree(TreeNode root) {
         if(root == null) return 0;
-        ht(root, 0);
+        ht(root);
         return ans;
     }
 }
