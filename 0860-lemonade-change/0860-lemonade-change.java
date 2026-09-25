@@ -13,12 +13,7 @@ class Solution {
                 ten++;
             }
             if(bills[i] == 20) {
-                int h = 0;
-                if(five < 1 && ten < 1) {
-                    h = 1;
-                    return false;
-                }
-                if(h == 1 && five < 3) return false;
+               
                 if(five >= 1 && ten >= 1) {
                     five--;
                     ten--;
