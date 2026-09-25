@@ -173,6 +173,7 @@ Every topic file includes:
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
@@ -263,6 +264,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Every topic file includes:
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
@@ -513,6 +516,7 @@ Every topic file includes:
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0876-middle-of-the-linked-list) |
 ## Iterator
@@ -584,6 +588,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
