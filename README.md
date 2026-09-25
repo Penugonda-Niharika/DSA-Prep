@@ -179,6 +179,7 @@ Every topic file includes:
 | [0560-subarray-sum-equals-k](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2104-sum-of-subarray-ranges) |
@@ -265,6 +266,7 @@ Every topic file includes:
 | ------- |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0860-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
