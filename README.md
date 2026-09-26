@@ -154,6 +154,7 @@ Every topic file includes:
 | [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
@@ -229,6 +230,7 @@ Every topic file includes:
 | ------- |
 | [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -264,6 +266,7 @@ Every topic file includes:
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0860-lemonade-change) |
