@@ -536,6 +536,7 @@ Every topic file includes:
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
