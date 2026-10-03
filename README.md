@@ -169,6 +169,7 @@ Every topic file includes:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0238-product-of-array-except-self) |
@@ -282,6 +283,7 @@ Every topic file includes:
 | [0054-spiral-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
@@ -368,6 +370,7 @@ Every topic file includes:
 | [0144-binary-tree-preorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -424,6 +427,7 @@ Every topic file includes:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -626,6 +630,7 @@ Every topic file includes:
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
