@@ -187,6 +187,7 @@ Every topic file includes:
 | [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -294,6 +295,7 @@ Every topic file includes:
 | [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
@@ -447,6 +449,7 @@ Every topic file includes:
 | [0733-flood-fill](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
 ## Hash Table
 |  |
