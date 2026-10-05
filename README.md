@@ -272,6 +272,7 @@ Every topic file includes:
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
@@ -656,4 +657,8 @@ Every topic file includes:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
