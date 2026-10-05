@@ -274,6 +274,7 @@ Every topic file includes:
 | [0344-reverse-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0784-letter-case-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
@@ -330,6 +331,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -470,6 +472,7 @@ Every topic file includes:
 | [0205-isomorphic-strings](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -487,6 +490,7 @@ Every topic file includes:
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -626,6 +630,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -668,4 +673,8 @@ Every topic file includes:
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
