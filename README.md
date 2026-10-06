@@ -171,6 +171,7 @@ Every topic file includes:
 | [0130-surrounded-regions](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
@@ -564,6 +565,7 @@ Every topic file includes:
 | [0142-linked-list-cycle-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0344-reverse-string) |
@@ -582,6 +584,7 @@ Every topic file includes:
 | [0009-palindrome-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
