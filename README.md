@@ -179,6 +179,7 @@ Every topic file includes:
 | [0238-product-of-array-except-self](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
@@ -480,6 +481,7 @@ Every topic file includes:
 | [0205-isomorphic-strings](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
@@ -497,6 +499,7 @@ Every topic file includes:
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
@@ -507,6 +510,7 @@ Every topic file includes:
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
@@ -518,6 +522,7 @@ Every topic file includes:
 | [0136-single-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0784-letter-case-permutation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -590,6 +595,7 @@ Every topic file includes:
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1922-count-good-numbers) |
