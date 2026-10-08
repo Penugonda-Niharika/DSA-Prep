@@ -178,6 +178,7 @@ Every topic file includes:
 | [0238-product-of-array-except-self](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
@@ -567,6 +568,7 @@ Every topic file includes:
 | [0151-reverse-words-in-a-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0443-string-compression) |
