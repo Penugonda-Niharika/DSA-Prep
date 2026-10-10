@@ -155,6 +155,7 @@ Every topic file includes:
 | [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
@@ -304,6 +305,7 @@ Every topic file includes:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
@@ -599,6 +601,7 @@ Every topic file includes:
 | [0007-reverse-integer](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
