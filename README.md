@@ -168,6 +168,7 @@ Every topic file includes:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0136-single-number) |
@@ -248,6 +249,7 @@ Every topic file includes:
 | [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0131-palindrome-partitioning) |
