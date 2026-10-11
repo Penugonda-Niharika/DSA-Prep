@@ -162,6 +162,7 @@ Every topic file includes:
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
@@ -508,6 +509,7 @@ Every topic file includes:
 | [0015-3sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
@@ -582,6 +584,7 @@ Every topic file includes:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0141-linked-list-cycle) |
@@ -674,6 +677,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
@@ -724,4 +728,8 @@ Every topic file includes:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0207-course-schedule) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
