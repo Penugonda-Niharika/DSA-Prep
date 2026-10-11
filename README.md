@@ -149,6 +149,7 @@ Every topic file includes:
 | ------- |
 | [0001-two-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0039-combination-sum) |
@@ -504,6 +505,7 @@ Every topic file includes:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0088-merge-sorted-array) |
@@ -576,6 +578,7 @@ Every topic file includes:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0042-trapping-rain-water) |
