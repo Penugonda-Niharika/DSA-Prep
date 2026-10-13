@@ -421,6 +421,7 @@ Every topic file includes:
 | [0662-maximum-width-of-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
@@ -481,6 +482,7 @@ Every topic file includes:
 | [0662-maximum-width-of-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0994-rotting-oranges) |
@@ -719,6 +721,7 @@ Every topic file includes:
 | [0210-course-schedule-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0802-find-eventual-safe-states) |
 ## Trie
 |  |
 | ------- |
@@ -736,6 +739,7 @@ Every topic file includes:
 | ------- |
 | [0207-course-schedule](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -752,4 +756,12 @@ Every topic file includes:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0785-is-graph-bipartite) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
