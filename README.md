@@ -177,6 +177,7 @@ Every topic file includes:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
@@ -261,6 +262,7 @@ Every topic file includes:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0542-01-matrix) |
