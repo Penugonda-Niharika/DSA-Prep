@@ -198,6 +198,7 @@ Every topic file includes:
 | [0503-next-greater-element-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
@@ -541,6 +542,7 @@ Every topic file includes:
 | [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
