@@ -1,0 +1,41 @@
+
+        class Solution {
+            public int[] searchRange(int[] nums, int target) {
+                int[] ans = { -1, -1 };
+                int l = 0, h = nums.length - 1;
+
+                // Find first occurrence
+                while (l <= h) {
+                    int m = l + (h - l) / 2;
+
+                    if (nums[m] == target) {
+                        ans[0] = m;
+                        h = m - 1;
+                    } else if (nums[m] < target) {
+                        l = m + 1;
+                    } else {
+                        h = m - 1;
+                    }
+                }
+
+                // Reset pointers to find last occurrence
+                l = 0;
+                h = nums.length - 1;
+
+                while (l <= h) {
+                    int m = l + (h - l) / 2;
+
+                    if (nums[m] == target) {
+                        ans[1] = m;
+                        l = m + 1;
+                    } else if (nums[m] < target) {
+                        l = m + 1;
+                    } else {
+                        h = m - 1;
+                    }
+                }
+
+                return ans;
+            }
+        }
+
