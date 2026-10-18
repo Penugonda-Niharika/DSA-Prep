@@ -152,6 +152,7 @@ Every topic file includes:
 | [0015-3sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
@@ -539,6 +540,7 @@ Every topic file includes:
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
