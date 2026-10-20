@@ -201,6 +201,7 @@ Every topic file includes:
 | [0485-max-consecutive-ones](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0704-binary-search) |
@@ -555,6 +556,7 @@ Every topic file includes:
 | [0240-search-a-2d-matrix-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
