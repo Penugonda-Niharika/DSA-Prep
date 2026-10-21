@@ -550,6 +550,7 @@ Every topic file includes:
 | [0033-search-in-rotated-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0222-count-complete-tree-nodes) |
@@ -644,6 +645,7 @@ Every topic file includes:
 | [0029-divide-two-integers](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0268-missing-number) |
@@ -790,4 +792,8 @@ Every topic file includes:
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0127-word-ladder) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
