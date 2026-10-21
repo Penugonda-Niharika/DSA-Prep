@@ -213,6 +213,7 @@ Every topic file includes:
 | [0994-rotting-oranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -559,6 +560,7 @@ Every topic file includes:
 | [0287-find-the-duplicate-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
