@@ -1,26 +1,22 @@
 class Solution {
+    void dfs(int c, boolean[] vis, int[][] arr, int n) {
+        vis[c] = true;
+        for(int i=0; i<n; i++) {
+            if(arr[c][i] == 1 && !vis[i]) {
+                dfs(i,vis,arr,n);
+            }
+        }
+    }
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        boolean[] visited = new boolean[n];
-        int provinces = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                provinces++;
-                dfs(i, isConnected, visited);
+        boolean vis[] = new boolean[n];
+        int p = 0;
+        for(int i=0; i<n; i++) {
+            if(!vis[i]) {
+                p++;
+                dfs(i,vis, isConnected,n);
             }
         }
-
-        return provinces;
-    }
-
-    private void dfs(int city, int[][] isConnected, boolean[] visited) {
-        visited[city] = true;
-
-        for (int j = 0; j < isConnected.length; j++) {
-            if (isConnected[city][j] == 1 && !visited[j]) {
-                dfs(j, isConnected, visited);
-            }
-        }
+        return p;
     }
 }
