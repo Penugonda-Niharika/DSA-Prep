@@ -1,46 +1,26 @@
 class Solution {
-    void dfs(int r, int c, int vis[][], char grid[][]) {
-        int n = grid.length;
-        int m = grid[0].length;
+    void dfs(int r, int c, int[][] vis, char[][] arr,int n, int m) {
+        if(r < 0 || r >= n || c < 0 || c >= m) return;
+        if(arr[r][c] == '0' || vis[r][c] ==1) return;
         vis[r][c] = 1;
-        Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{r,c});
-        while(!q.isEmpty()) {
-            int[] curr = q.poll();
-            int row = curr[0];
-            int col = curr[1];
-            if(row + 1 < n && grid[row+1][col] == '1' && vis[row+1][col] == 0) {
-                q.add(new int[]{row+1, col});
-                vis[row+1][col] = 1;
-            }
-            if(row - 1 >= 0 && grid[row-1][col] == '1' && vis[row-1][col] == 0) {
-                q.add(new int[]{row-1, col});
-                vis[row-1][col] = 1;
-            }
-            if(col + 1 < m && grid[row][col+1] == '1' && vis[row][col+1] == 0) {
-                q.add(new int[]{row, col+1});
-                vis[row][col+1] = 1;
-            }
-            if(col - 1 >= 0 && grid[row][col-1] == '1' && vis[row][col-1] == 0) {
-                q.add(new int[]{row, col-1});
-                vis[row][col-1] = 1;
-            }
-        }
+        dfs(r+1,c,vis,arr,n,m);
+        dfs(r-1,c,vis,arr,n,m);
+        dfs(r,c+1,vis,arr,n,m);
+        dfs(r,c-1,vis,arr,n,m);
     }
-
     public int numIslands(char[][] grid) {
+        int ans = 0;
         int n = grid.length;
         int m = grid[0].length;
         int vis[][] = new int[n][m];
-        int cnt=0;
-        for(int r=0; r<n; r++) {
-            for(int c=0; c<m; c++) {
-                if(vis[r][c] == 0 && grid[r][c] == '1') {
-                    cnt++;
-                    dfs(r,c,vis,grid);
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<m; j++) {
+                if(grid[i][j] == '1' && vis[i][j] == 0) {
+                    ans++;
+                    dfs(i,j,vis,grid,n,m);
                 }
             }
         }
-        return cnt;
+        return ans;
     }
 }
