@@ -1,83 +1,38 @@
 class Solution {
-
-    void bfs(int r, int c, int[][] grid, int[][] vis) {
-
-        int n = grid.length;
-        int m = grid[0].length;
-
-        Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{r, c});
-        vis[r][c] = 1;
-
-        int[][] dir = {
-            {-1, 0},
-            {1, 0},
-            {0, -1},
-            {0, 1}
-        };
-
-        while(!q.isEmpty()) {
-
-            int[] curr = q.poll();
-            int row = curr[0];
-            int col = curr[1];
-
-            for(int[] d : dir) {
-
-                int nr = row + d[0];
-                int nc = col + d[1];
-
-                if(nr >= 0 && nr < n &&
-                   nc >= 0 && nc < m &&
-                   grid[nr][nc] == 1 &&
-                   vis[nr][nc] == 0) {
-
-                    vis[nr][nc] = 1;
-                    q.add(new int[]{nr, nc});
-                }
-            }
-        }
+    void dfs(int r, int c, int[][] arr, int n, int m) {
+        if(r < 0 || r >= n || c < 0 || c >= m) return;
+        if (arr[r][c] == 0) return;
+        arr[r][c] = 0;
+        dfs(r+1, c, arr, n, m);
+        dfs(r-1, c, arr, n, m);
+        dfs(r, c+1, arr, n, m);
+        dfs(r, c-1, arr, n, m);
     }
-
-    public int numEnclaves(int[][] grid) {
-
-        int n = grid.length;
-        int m = grid[0].length;
-
-        int[][] vis = new int[n][m];
-
-        // Top and bottom boundaries
-        for(int j = 0; j < m; j++) {
-
-            if(grid[0][j] == 1 && vis[0][j] == 0)
-                bfs(0, j, grid, vis);
-
-            if(grid[n - 1][j] == 1 && vis[n - 1][j] == 0)
-                bfs(n - 1, j, grid, vis);
-        }
-
-        // Left and right boundaries
-        for(int i = 0; i < n; i++) {
-
-            if(grid[i][0] == 1 && vis[i][0] == 0)
-                bfs(i, 0, grid, vis);
-
-            if(grid[i][m - 1] == 1 && vis[i][m - 1] == 0)
-                bfs(i, m - 1, grid, vis);
-        }
-
-        int ans = 0;
-
-        // Count land that was NOT reachable from boundary
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-
-                if(grid[i][j] == 1 && vis[i][j] == 0) {
-                    ans++;
-                }
+    public int numEnclaves(int[][] arr) {
+        int n = arr.length;
+        int m = arr[0].length;
+        for(int i=0; i<n; i++) {
+            if(arr[i][0] == 1) {
+                dfs(i,0,arr,n,m);
+            }
+            if(arr[i][m-1] == 1) {
+                dfs(i,m-1,arr,n,m);
             }
         }
-
+        for(int i=0; i<m; i++) {
+            if(arr[0][i] == 1) {
+                dfs(0,i,arr,n,m);
+            }
+            if(arr[n-1][i] == 1) {
+                dfs(n-1,i,arr,n,m);
+            }
+        }
+        int ans = 0;
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<m; j++) {
+                if(arr[i][j] == 1) ans++;
+            }
+        }
         return ans;
     }
 }
