@@ -1,49 +1,43 @@
 class Solution {
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
-         List<List<Integer>> adj = new ArrayList<>();
-        for(int i=0; i<numCourses; i++) {
+    boolean e;
+    void dfs(int u, int vis[], int path[], Stack<Integer> st, ArrayList<ArrayList<Integer>> adj) {
+        vis[u] = 1;
+        path[u] = 1;
+        for(int v : adj.get(u)) {
+            if(vis[v] == 0) {
+                dfs(v,vis,path,st,adj);
+            } else if(vis[v] == 1 && path[v] == 1) {
+                e = true;
+                return;
+            }
+        }
+        path[u] =0;
+        st.push(u);
+    }
+
+    public int[] findOrder(int n, int[][] prerequisites) {
+        int vis[] = new int[n];
+        int path[] = new int[n];
+        Stack<Integer> st = new Stack<>();
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for(int i=0; i<n; i++) {
             adj.add(new ArrayList<>());
         }
-        for(int p[] : prerequisites) {
+        for (int[] p : prerequisites) {
             adj.get(p[1]).add(p[0]);
         }
-        int[] indegree = new int[numCourses];
-
-        // Calculate indegree of each node
-        for(int i=0; i<numCourses; i++) {
-            for(int v : adj.get(i)) {
-                indegree[v]++;
+        for (int i = 0; i < n; i++) {
+            if (vis[i] == 0) {
+                dfs(i, vis, path, st, adj);
             }
         }
-
-
-        Queue<Integer> q = new LinkedList<>();
-
-        // Add all nodes with indegree 0 to the queue
-        for(int i=0; i<indegree.length; i++) {
-            if(indegree[i] == 0) {
-                q.add(i);
-            }
+        int[] result = new int[st.size()];
+        int i=0;
+        while (!st.isEmpty()) {
+            result[i] = st.pop();
+            i++;
         }
-
-
-        List<Integer> ans = new ArrayList<>();
-
-        // Implement BFS-based topological sort here
-        while(!q.isEmpty()) {
-            int n = q.poll();
-            ans.add(n);
-            List<Integer> a = adj.get(n);
-            for(int v : a) {
-                indegree[v]--;
-                if(indegree[v] == 0) {
-                    q.add(v);
-                }
-            }
-        }
-        if (ans.size() == numCourses) {
-            return ans.stream().mapToInt(Integer::intValue).toArray();
-        }
-        return new int[0];
+        if(e) return new int[]{};
+        return result;
     }
 }
