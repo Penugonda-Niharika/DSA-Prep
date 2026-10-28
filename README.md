@@ -444,6 +444,7 @@ Every topic file includes:
 | [0886-possible-bipartition](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -767,6 +768,7 @@ Every topic file includes:
 | [0785-is-graph-bipartite](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0886-possible-bipartition) |
+| [1192-critical-connections-in-a-network](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1192-critical-connections-in-a-network) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Trie
 |  |
@@ -820,4 +822,12 @@ Every topic file includes:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0069-sqrtx) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
