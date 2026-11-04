@@ -216,6 +216,7 @@ Every topic file includes:
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -337,6 +338,7 @@ Every topic file includes:
 | [0994-rotting-oranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
 | [2965-find-missing-and-repeated-values](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -368,6 +370,7 @@ Every topic file includes:
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
+| [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -446,6 +449,7 @@ Every topic file includes:
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -513,6 +517,7 @@ Every topic file includes:
 | [0994-rotting-oranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
@@ -575,6 +580,7 @@ Every topic file includes:
 | [0540-single-element-in-a-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -757,6 +763,7 @@ Every topic file includes:
 | [0785-is-graph-bipartite](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -830,4 +837,8 @@ Every topic file includes:
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1192-critical-connections-in-a-network) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
