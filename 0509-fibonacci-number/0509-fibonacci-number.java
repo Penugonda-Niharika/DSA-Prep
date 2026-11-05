@@ -1,9 +1,14 @@
 class Solution {
-    int fi(int n) {
-        if(n == 0 || n == 1) return n;
-        return fi(n-1)+fi(n-2);
+    int fibDP(int n, int[] arr) {
+        if(n <= 1) return n;
+        if(arr[n] != -1) {
+            return arr[n];
+        }
+        return arr[n] = fibDP(n-1, arr)+fibDP(n-2, arr);
     }
     public int fib(int n) {
-        return fi(n);
+        int[] arr = new int[n+1];
+        Arrays.fill(arr, -1);
+        return fibDP(n, arr);
     }
 }
