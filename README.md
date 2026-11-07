@@ -209,6 +209,7 @@ Every topic file includes:
 | [0733-flood-fill](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0994-rotting-oranges) |
@@ -279,6 +280,7 @@ Every topic file includes:
 | [0435-non-overlapping-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Simulation
