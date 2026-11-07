@@ -186,6 +186,7 @@ Every topic file includes:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
@@ -277,6 +278,7 @@ Every topic file includes:
 | [0124-binary-tree-maximum-path-sum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0542-01-matrix) |
