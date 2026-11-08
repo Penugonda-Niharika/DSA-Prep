@@ -188,6 +188,7 @@ Every topic file includes:
 | [0189-rotate-array](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0229-majority-element-ii) |
@@ -279,6 +280,7 @@ Every topic file includes:
 | [0131-palindrome-partitioning](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0542-01-matrix) |
