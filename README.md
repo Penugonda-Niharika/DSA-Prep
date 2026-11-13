@@ -217,6 +217,7 @@ Every topic file includes:
 | [0994-rotting-oranges](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
@@ -377,6 +378,7 @@ Every topic file includes:
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
