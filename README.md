@@ -729,6 +729,7 @@ Every topic file includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
