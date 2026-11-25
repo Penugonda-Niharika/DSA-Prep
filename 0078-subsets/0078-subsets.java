@@ -1,18 +1,20 @@
 class Solution {
-    void ps(int[] arr, int i, List<Integer> ans, List<List<Integer>> allSets) {
-        if(i == arr.length) {
-            allSets.add(new ArrayList<>(ans));
+    void calculate(int i, int[] arr, List<Integer> ds, List<List<Integer>> ans) {
+        if(i == arr.length) {       
+            ans.add(new ArrayList<>(ds));
             return;
         }
-        ans.add(arr[i]);
-        ps(arr, i+1, ans, allSets);
-        ans.remove(ans.size()-1);
-        ps(arr, i+1, ans, allSets);
+        ds.add(arr[i]);
+        calculate(i+1,arr, ds, ans);
+        ds.remove(ds.size()-1);
+        while(i+1<arr.length && arr[i] == arr[i+1]) i++;
+        calculate(i+1, arr, ds, ans);
     }
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> allSets = new ArrayList<>();
-        List<Integer> ans = new ArrayList<>();
-        ps(nums, 0, ans, allSets);
-        return allSets;
+        Arrays.sort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> ds = new ArrayList<>();
+        calculate(0,nums,ds,ans);
+        return ans;
     }
 }
