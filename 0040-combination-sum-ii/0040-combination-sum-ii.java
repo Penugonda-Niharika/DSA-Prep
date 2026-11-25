@@ -1,24 +1,25 @@
 class Solution {
-    void ps(int[] arr, int i, List<Integer> ans, List<List<Integer>> allSets, int t) {
-        if(t == 0) {
-            allSets.add(new ArrayList<>(ans));
+    void combination(int i, int sum, int t, int[] arr, List<List<Integer>> ans, List<Integer> a) {
+        if(sum > t) return;
+        if(i == arr.length) {
+            if(t == sum) {
+                ans.add(new ArrayList<>(a));
+            }
             return;
         }
-        if(i == arr.length || t<0) {
-            return;
-        }
-        ans.add(arr[i]);
-        ps(arr, i+1, ans, allSets, t-arr[i]);
-        ans.remove(ans.size()-1);
-        int idx = i+1;
-        while(idx<arr.length && arr[idx] == arr[idx-1])idx++;
-        ps(arr, idx, ans, allSets, t);
+        a.add(arr[i]);
+        sum += arr[i];
+        combination(i+1, sum,t,arr,ans,a);
+        a.remove(a.size()-1);
+        sum -= arr[i];
+        while(i+1<arr.length && arr[i] == arr[i+1]) i++;
+        combination(i+1, sum,t,arr,ans,a);
     }
-    public List<List<Integer>> combinationSum2(int[] nums, int target) {
-        Arrays.sort(nums);
-        List<List<Integer>> allSets = new ArrayList<>();
-        List<Integer> ans = new ArrayList<>();
-        ps(nums, 0, ans, allSets, target);
-        return allSets;
+    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        Arrays.sort(candidates);
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> a = new ArrayList<>();
+        combination(0,0,target,candidates,ans,a);
+        return ans;
     }
 }
