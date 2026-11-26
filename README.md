@@ -168,6 +168,7 @@ Every topic file includes:
 | [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
@@ -306,6 +307,7 @@ Every topic file includes:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0131-palindrome-partitioning) |
@@ -337,6 +339,7 @@ Every topic file includes:
 | [0048-rotate-image](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0200-number-of-islands) |
@@ -424,6 +427,7 @@ Every topic file includes:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0099-recover-binary-search-tree) |
@@ -706,6 +710,7 @@ Every topic file includes:
 | [0040-combination-sum-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Penugonda-Niharika/DSA-Prep/tree/master/0216-combination-sum-iii) |
