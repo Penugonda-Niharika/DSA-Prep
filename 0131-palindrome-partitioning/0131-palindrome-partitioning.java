@@ -1,56 +1,34 @@
-
 class Solution {
-
-    void ps(String s, int i, int j,
-            List<String> ans, List<List<String>> res) {
-
-        // All characters are completed
-        if (i == s.length()) {
-            res.add(new ArrayList<>(ans));
+    void recursion(int i, String s, List<String> ds, List<List<String>> ans) {
+        if(i == s.length()) {
+            ans.add(new ArrayList<>(ds));
             return;
         }
-
-        // No more substring possible
-        if (j == s.length()) {
-            return;
+        for(int j=i; j<s.length(); j++) {
+            String sub = s.substring(i,j+1);
+            if(isPalindrome(sub)) {
+                ds.add(sub);
+                recursion(j+1, s, ds, ans);
+                ds.remove(ds.size()-1);
+            }
         }
-
-        // TAKE
-        if (isPal(s, i, j)) {
-            ans.add(s.substring(i, j + 1));
-
-            ps(s, j + 1, j + 1, ans, res);
-
-            // BACKTRACK
-            ans.remove(ans.size() - 1);
-        }
-
-        // TRY BIGGER SUBSTRING
-        ps(s, i, j + 1, ans, res);
     }
-
-
-    boolean isPal(String s, int i, int j) {
-
-        while (i < j) {
-            if (s.charAt(i) != s.charAt(j))
+    boolean isPalindrome(String s) {
+        int l = 0;
+        int h = s.length()-1;
+        while(l <= h) {
+            if(s.charAt(l) != s.charAt(h)) {
                 return false;
-
-            i++;
-            j--;
+            }
+            l++;
+            h--;
         }
-
         return true;
     }
-
-
     public List<List<String>> partition(String s) {
-
-        List<List<String>> res = new ArrayList<>();
-        List<String> ans = new ArrayList<>();
-
-        ps(s, 0, 0, ans, res);
-
-        return res;
+        List<List<String>> ans = new ArrayList<>();
+        List<String> ds = new ArrayList<>();
+        recursion(0, s, ds, ans);
+        return ans;
     }
 }
